@@ -1,0 +1,292 @@
+From ameulen at unet.nl  Fri Apr  8 19:16:29 2005
+From: ameulen at unet.nl (Ed van der Meulen)
+Date: Fri, 08 Apr 2005 19:16:29 +0200
+Subject: [Nnw-members] some news
+Message-ID: <5.1.0.14.2.20050408185028.022bed30@pop.unet.nl>
+
+Hi
+
+How are you?
+
+It's great we have now three NNW mirror sites:
+
+http://62.66.167.94/nnw/flash.php
+
+http://nnw.psydolphin.net/flash.php
+
+and
+
+http://nnw.berlios.de/flash.php
+
+I have made an upload tool for papers to berlios and look now the new date 
+table
+
+http://nnw.berlios.de/docs.php/by-date
+
+And there is a lot more to see as well, like screenshots as well.
+
+Also two daughter projects can now be seen.
+
+http://nnw-folding.berlios.de/flash.php
+
+This folding of proteins and chromosomes will become a welcome tool. Docs 
+have to be written, There's enough to do.
+
+And
+
+http://nnw-np.sourceforge.net/html.php
+
+That is something that many mathematician will surprise. And we are just 
+working in the same way like in the NNW mother project, with only friendly 
+emailing.
+
+All projects support each other for promoting our views. Which is extremely 
+important.
+
+We are based on papers from famous scientists and the establishment didn't 
+like it. But we are free and we do like it for sure.
+
+I have started a series of papers about mathematics and sciences of the 
+21st century. So there are many new papers on the site now.
+
+I hope later the other mirror sites will follow the Berlios site. Each day 
+I will upload things now.
+
+By the friendly emailing and by using knowledge out of forgotten papers, we 
+are running so well.
+
+And now we need many new and enthusiastic members.
+
+Please have a nice day
+
+ed
+
+
+
+
+
+
+
+
+
+From ameulen at unet.nl  Sat Apr  9 14:30:02 2005
+From: ameulen at unet.nl (Ed van der Meulen)
+Date: Sat, 09 Apr 2005 14:30:02 +0200
+Subject: [Nnw-members] Re: [Nnw-cron] hi, i am (re)new
+In-Reply-To: <4257B5D9.4000402@gmx.de>
+Message-ID: <5.1.0.14.2.20050409142204.02e596e8@pop.unet.nl>
+
+At 9-4-2005 13:00 +0200, you wrote:
+>hi folks,
+>
+>i was in nnw before there was the argument with sourceforge and i lost
+>the contact then, now ed found my email adress again and sent me the
+>information about the lists, and here i am, just subscribed to all the
+>lists.
+>
+>to say some about me:
+>
+>age 18
+>i live in taunusstein near wiesbaden in germany where recetly snow
+>falls, yes real snow!
+>im still at school, 12th of 13 grades here in germany, one year left to
+>the abitur, my 2 main classes (leistungskurse in german) are maths and
+>physics, after school im more or less sure to study physics at technical
+>univerity of Darmstadt.
+>
+>yes that's something about me, perhaps some people on this list could say
+>something about them too so i get to know you all,
+>
+>cu
+>Dieter
+
+Hi Dieter
+
+That a very well posting, thanks
+
+Maybe this is a dangerous project for you as well. I have made papers about 
+mathematics and sciences of the 21st century.
+
+I like music, languages, sciences, and mainly a nice conversation that can 
+go deep and that I never will forget. So we are only emailing each other in 
+a friendly way. In this way we stimulate each other.
+
+We have a basis from old papers from famous scientist that are forgotten by 
+the establishment. So we can think a little different about various things.
+
+We feel that we are right and we do our best. So members have to like new 
+true things as well.
+
+And we need a lot of new members. Our main concern now.
+
+have a warm day
+
+ed
+
+
+
+From ameulen at unet.nl  Sun Apr 10 21:55:16 2005
+From: ameulen at unet.nl (Ed van der Meulen)
+Date: Sun, 10 Apr 2005 21:55:16 +0200
+Subject: [Nnw-members] Hello, how are you?
+Message-ID: <5.1.0.14.2.20050410214621.0231edc8@pop.unet.nl>
+
+Hi
+
+I have written a proper start for the non-deterministic polynomial problem 
+and I have used for it our Factual Thinking that we have developed and used 
+in the NNW project. That way of thinking covers all other types of 
+thinking, and acting, like also day dreaming. You can also google for - 
+factual thinking.
+
+And we have now already 8 precious papers for the NNW-NP project. Early we 
+can start to code for tryouts. Coding already building stones vor the NP 
+project as well.
+
+For the NNW project I have also new ideas now. We have fruitful projects now.
+
+This has an enormous advantage. Things we learn in one of the project we 
+can apply in the other projects as well. An extra possibility for free. 
+Also they are stimulating each other for promoting.
+
+That is also very important for us.
+
+So I hope you will agree with the way we have chosen now.
+
+Our first priority is now more new and active wanting members.
+
+Please have a nice day
+
+ed
+
+
+
+From ameulen at unet.nl  Tue Apr 12 22:21:06 2005
+From: ameulen at unet.nl (Ed van der Meulen)
+Date: Tue, 12 Apr 2005 22:21:06 +0200
+Subject: [Nnw-members] ideas from three open source projects converge
+Message-ID: <5.1.0.14.2.20050412215407.025633d0@pop.unet.nl>
+
+Hi
+
+I hope it good with you.
+
+Ideas form NNW, NNW-NP and NNW-foldng are often the same.
+
+For instance
+
+The cells of NNW are bridge between the input with maybe a question or 
+something also to learn. In NNW there's not much difference between those 
+learning and adm answering.
+
+For the first something can be stored and in the other case retrieved. But 
+that nearly the same.
+
+We have off projects. All on the same true basis.
+
+In NNW-NP we work from rough to precise and that we meet also layers. And 
+then it's to bridge the highest LOD (level of detail) with the lowest LOD, 
+the cities from the traveling salesman. At the highest LOD we see the total 
+route.
+
+So It's also a bridging project.
+
+And NNW-folding. There we work also from not or hardly folded start LOD to 
+a more precise compact LOD. This is also a bridging project with layers in 
+it. Like also the sources of NNW reflect. Yopu also can understand the 
+sources only via LODs.
+
+In NNW-NP in NP-3 I have written a paper about our meaning of indetermistic.
+
+For most mathematician is this the notion.
+
+Deterministic is at each decision point we have a function that tells 
+exactly this input has to go to that output. But they say indeterministic 
+is not a function but a relation that tell at each decision point this 
+input has to go to that SET of output. And maybe they go parallel further.
+
+We see interministic in another way. We call that contingent. And that 
+means at a decision point streams with uncertainties are meeting. That can 
+be particles or people and we don't know everything form both individuals. 
+This is the physical notion contingent.
+
+We deal with the portions of uncertainty with margins. There we put the 
+uncertainties. And for free we will get a lot more notions.
+
+Suddenly we have thresholds. We have the build up of forces. We have 
+breakthroughs.We have sudden nice surprises and possible also bad 
+accidents. And everything a result of introducing margins.
+
+In this way we are also bridging the gap between theories and practical 
+useful tools.
+
+What do you think of this NNW project where everything happens with 
+friendly emailing.
+
+Sleep well, grin
+
+ed
+
+
+
+From ameulen at unet.nl  Fri Apr 29 15:40:26 2005
+From: ameulen at unet.nl (Ed van der Meulen)
+Date: Fri, 29 Apr 2005 15:40:26 +0200
+Subject: [Nnw-members] We are busy
+Message-ID: <5.1.0.14.2.20050429152826.02288e50@pop.unet.nl>
+
+Hello
+
+How are you
+
+I have made some papers about mathematics and sciences of the 21st science. 
+And why not.
+
+We are baser on papers from famous scientists.
+
+Our great example is Henri Jules Poincar?. Do you know that story.
+
+In 1899 he computed by hand the orbit of the earth around the sun again. He 
+did that in a more critical way.
+
+And we can already know he was right.
+
+Look at the tides of ebb and flood. The seas are talking to us, grin. And 
+then sand coasts change. Huge volumes of same will be replaced. Dunes are 
+formed and destroyed. At rocky costs we see rack pulverized and with the 
+debris we can have problem. Of course there's energy needed. And so our 
+earth feels that in its orbit. The orbit is less elliptical than it should 
+be, and we know why.
+
+When the Sun and the Moon and Jupiter are pulling at one side. Huge floods 
+are arising, See the wild breakers. Everywhere energy dissipation. An at 
+the ebb place the water feels tangential forces parallel to the surface of 
+the earth.
+
+And do you think nothing is happening in the earth itself. Surely also huge 
+tensions are arising and then breakthroughs and unexpected results.
+
+So awe adding in the squid demo margins and we are getting the rest for free.
+
+I post also in the heart of mathematicians. But they are often believers in 
+what they have learned.
+
+And we are somewhat more critical
+
+
+
+From adament at gmail.com  Fri Apr 29 16:42:55 2005
+From: adament at gmail.com (Adam Ehlers Nyholm Thomsen)
+Date: Fri, 29 Apr 2005 16:42:55 +0200
+Subject: [Nnw-members] Problem with the site
+Message-ID: <427247EF.1020102@gmail.com>
+
+Hello
+How are you?
+
+The flash won't work with my firefox on windows running flash 7 haven't
+tested it on my linux. :(
+Cheers
+Adam
+
+
